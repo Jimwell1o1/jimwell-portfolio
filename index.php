@@ -135,7 +135,7 @@
 
               <div class="col-lg-10 pb-3">
                 <p class="pt-1">
-                A results-driven web developer with over 3 years of experience in both frontend and backend development. Skilled in building responsive, user-focused web applications, integrating APIs, and solving performance challenges. I enjoy creating efficient, scalable solutions and collaborating on projects that deliver real value. Driven by the challenge of solving complex problems with practical, efficient solutions
+                A results-driven web developer with experience in both frontend and backend development. Skilled in building responsive, user-focused web applications, integrating APIs, and solving performance challenges. I enjoy creating efficient, scalable solutions and collaborating on projects that deliver real value. Driven by the challenge of solving complex problems with practical, efficient solutions
                 </p>
               </div>
             </div>
