@@ -72,18 +72,14 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Hi, I'm Jimwell!</h1>
-      <small>I build and develop websites to make people's lives easier.</small>
-      <p>I'm a <span class="typed" data-typed-items="Developer, Freelancer, Designer, Programmer"></span></p>
+      <h1>Hi, I'm Jim 👋</h1>
+      <small>Creative thinking. Smart development. Real results.</small>
+      <p>I'm a <span class="typed" data-typed-items="Developer, Designer, Programmer"></span></p>
       <div>
-        <a class="get-started scrollto" href="#about">Get Started</a>
+        <a class="get-started scrollto" href="#about">Learn more</a>
       </div>
       <div class="social-links">
-        <a href="https://www.facebook.com/imsotall" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.instagram.com/jimwellrbn/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://twitter.com/jimwell1o1" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="https://www.linkedin.com/in/jimwell-rabino"
-             target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/jimwell-rabino" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://www.youtube.com/channel/UCr6HSG_cH7iyiyXFSmPHUgw" target="_blank" class="linkedin"><i class="bx bxl-youtube"></i></a>
       </div>
     </div>
@@ -109,10 +105,16 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-up" data-aos-delay="500">
             <h3>Hello there!</h3>
             <div class="col-lg-10">
+            <?php
+              $start_year = 2022;
+              $current_year = date('Y');
+
+              $total_exp = $current_year - $start_year;
+            ?>
             <p class="pb-4">
               
-              I'm Jimwell Rabino, a Freelancer Web Developer with over 1 year of experience. I'm from Philippines. 
-              I code and design websites for incredible people. I enjoy collaborating with other people because it motivates 
+              I'm Jim Rabino, a Full Stack Web Developer with over <?= $total_exp ?> years of experience. I'm from the Philippines. 
+              I code and design website for incredible people. I enjoy collaborating with other people because it motivates 
               me and helps me reach my goals.
             
             </p>
@@ -120,31 +122,27 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Jimwell Rabino</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Address:</strong> <span>Pasig City, Metro Manila</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+63 977 7887 108</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Nationality:</strong> <span>Filipino</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Jim Rabino</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Metro Manila, Philippines</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21 years old</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Course:</strong> <span>BS Computer Science</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=rjohnijmwell@gmail.com">rjohnjimwell@gmail.com</a></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Nationality:</strong> <span>Filipino</span></li>
                 </ul>
               </div>
 
               <div class="col-lg-10 pb-3">
                 <p class="pt-1">
-                I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS, building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
+                A results-driven web developer with over 3 years of experience in both frontend and backend development. Skilled in building responsive, user-focused web applications, integrating APIs, and solving performance challenges. I enjoy creating efficient, scalable solutions and collaborating on projects that deliver real value. Driven by the challenge of solving complex problems with practical, efficient solutions
                 </p>
               </div>
             </div>
 
             <div class="text-left pt-2" data-aos="fade-in">
-              <a class="button" target="_blank" href="https://drive.google.com/file/d/1rJyreMeredHMrwyqQNTLJfSgviCWckjH/view?usp=sharing">
-                Download CV
+              <a class="button" href="#contact">
+                Contact Me
               </a>
             </div>
             
@@ -238,24 +236,7 @@
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experiences</h3>
-            <div class="resume-item">
-              <h4>Web Developer</h4>
-              <h5>2021 - 2022</h5>
-              <p><em>EasySellPH, Pasig City, PH </em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production of the website.</li>
-                <li>Used vast knowledge about using coding, designing, markup languages and especially the functions of the application.</li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Computer Technician</h4>
-              <h5>2018 - 2021</h5>
-              <p><em>Freelancer, PH</em></p>
-              <ul>
-                <li>Setting up hardware and installing software, and also responsible for repairing various types of computers and laptops.</li>
-                <li>Maintaining computer systems, troubleshooting errors, and repairing the organization's hardware.</li>
-              </ul>
-            </div>
+            <div id="experiences"></div>
           </div>
         </div>
 
@@ -578,19 +559,13 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Pasig City, Metro Manila, PH</p>
+                <p>Metro Manila, PH</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
                 <p>rjohnjimwell@gmail.com</p>
-              </div>
-
-              <div class="phone">
-                <i class="bi bi-phone"></i>
-                <h4>Mobile:</h4>
-                <p>+63 977 7887 108</p>
               </div>
 
             </div>
@@ -638,14 +613,8 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Jimwell Rabino</h3>
-      <p>Hi, I'm Jimwell!
-I build and develop websites to make people's lives easier.</p>
-      <div class="social-links">
-      <a href="https://www.facebook.com/imsotall" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.instagram.com/jimwellrbn/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://twitter.com/jimwell1o1" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
-      </div>       
+      <h3>Jim Rabino</h3>
+      <p>Creative thinking. Smart development. Real results.</p>     
       <div class="copyright">
        <strong> &copy; <span>2022</span></strong>
       </div>
@@ -670,6 +639,8 @@ I build and develop websites to make people's lives easier.</p>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/experiences.js"></script>
+
 
 </body>
 </html>
