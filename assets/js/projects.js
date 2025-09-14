@@ -28,7 +28,7 @@ var projects = [
         type: "Landing Page",
         description: "Camella Homes General Trias is a residential development project that offers house and lot packages in General Trias, Cavite.",
         technology: "HTML | Tailwind CSS",
-        link: "https://www.camellagentrias.page.gd",
+        link: "https://camellahomes.page.gd",
         image: "assets/img/project-2.jpg",
     },
     {
