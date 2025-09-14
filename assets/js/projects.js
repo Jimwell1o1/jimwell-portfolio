@@ -20,7 +20,7 @@ var projects = [
         type: "E-commerce",
         description: "EasySellPH is a dropshipping company that makes people achieve their goals by offering them a minimal inventory opportunity.",
         technology: "Laravel | Bootstrap | MySQL | JS",
-        link: "https://www.easysellph.page.gd",
+        link: "https://easysellph.page.gd",
         image: "assets/img/course-1.jpg",
     },
     {
