@@ -452,9 +452,9 @@
           <div class="col-lg-4 mb-4">
             <div class="card h-100 shadow-sm border-0">
               <div class="card-body text-center">
-                <i class="bi bi-person fs-1 text-danger"></i>
-                <h4 class="card-title mt-2">Contact</h4>
-                <p class="card-text text-muted">+63 938 373 2638</p>
+                <i class="bi bi-geo-alt fs-1 text-danger"></i>
+                <h4 class="card-title mt-2">Location</h4>
+                <p class="card-text text-muted">Pasig City, Metro Manila</p>
               </div>
             </div>
           </div>
