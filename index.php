@@ -80,7 +80,7 @@
       </div>
       <div class="social-links">
         <a href="https://www.linkedin.com/in/jimwell-rabino" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        <a href="https://www.youtube.com/channel/UCr6HSG_cH7iyiyXFSmPHUgw" target="_blank" class="linkedin"><i class="bx bxl-youtube"></i></a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rjohnjimwell@gmail.com&su=Your%20Subject%20Here&body=Your%20message%20body%20here." target="_blank" class="envelope"><i class="bx bxs-envelope"></i></a>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -120,19 +120,6 @@
             </p>
           </div>
             <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Jim Rabino</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Location:</strong> <span>Metro Manila, Philippines</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Course:</strong> <span>BS Computer Science</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Nationality:</strong> <span>Filipino</span></li>
-                </ul>
-              </div>
-
               <div class="col-lg-10 pb-3">
                 <p class="pt-1">
                 A results-driven web developer with experience in both frontend and backend development. Skilled in building responsive, user-focused web applications, integrating APIs, and solving performance challenges. I enjoy creating efficient, scalable solutions and collaborating on projects that deliver real value. Driven by the challenge of solving complex problems with practical, efficient solutions
@@ -140,7 +127,7 @@
               </div>
             </div>
 
-            <div class="text-left pt-2" data-aos="fade-in">
+            <div class="text-left pt-4" data-aos="fade-in">
               <a class="button" href="#contact">
                 Contact Me
               </a>
@@ -230,8 +217,7 @@
               <ul class="customized">
                 <li><i class="bi bi-chevron-right"></i><b>Track:</b> Science, Technology, Engineering, and Mathematics</li>
               </ul>
-              <p>Science sparked my interest in computers, and it played a significant role in why I now enjoy programming. I believe that having a STEM background aided me in pursuing a career in computer and technology.
-</p>
+              <p>Science sparked my interest in computers, and it played a significant role in why I now enjoy programming. I believe that having a STEM background aided me in pursuing a career in computer and technology.</p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -304,152 +290,136 @@
 
       </div>
     
-    
-    <!-- ======= Skills Section ======= -->
-    <div id="skills" class="skills section-bg pt-5">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Skills</h2>
+
+      <!-- ======= Features Section ======= -->
+      <div id="features" class="features pt-5">
+        <div class="container" data-aos="fade-up">
+
+          <div class="row" data-aos="zoom-in" data-aos-delay="100">
+            <div class="col-lg-3 col-md-4">
+              <div class="icon-box">
+                <i class="ri-html5-line" style="color: #e54c21;"></i>
+                <h3><a>HTML</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+              <div class="icon-box">
+                <i class="ri-css3-fill" style="color: #5578ff;"></i>
+                <h3><a>CSS</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+              <div class="icon-box">
+                <i class="fa-brands fa-php" style="color: #767bb3;"></i>
+                <h3><a>PHP</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+              <div class="icon-box">
+                <i class="fa-brands fa-js-square" style="color: #f7df1e;"></i>
+                <h3><a>Javascript / JQuery</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="ri-database-2-line" style="color: #47aeff;"></i>
+                <h3><a>MySQL</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fab fa-laravel" style="color: #f42d30;"></i>
+                <h3><a>Laravel</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="icon ri-git-branch-line" style="color: #ff5828;"></i>
+                <h3><a>Git</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="ri-github-fill" style="color: #000000;"></i>
+                <h3><a>Github</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-linux" style="color: #37423b;"></i>
+                <h3><a>Linux</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="bi bi-bootstrap" style="color: #6610f2;"></i>
+                <h3><a>Bootstrap</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-vuejs" style="color: #3fb984;"></i>
+                <h3><a>VueJS</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-react" style="color: #00dcff;"></i>
+                <h3><a>ReactJS</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-vuejs" style="color: #79e4a9ff;"></i>
+                <h3><a>NuxtJS</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-figma" style="color: #e47979ff;"></i>
+                <h3><a>Figma</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-microsoft" style="color: #4d9bcfff;"></i>
+                <h3><a>Microsoft D365</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-microsoft" style="color: #c04dcfff;"></i>
+                <h3><a>Power Apps / Automate</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="ri-database-2-line" style="color: #e254bfff;"></i>
+                <h3><a>GraphQL</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-css3" style="color: #35d0dbff;"></i>
+                <h3><a>Tailwind CSS</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-wordpress" style="color: #3538dbff;"></i>
+                <h3><a>Wordpress</a></h3>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 mt-4">
+              <div class="icon-box">
+                <i class="fa-brands fa-wordpress" style="color: #db35d3ff;"></i>
+                <h3><a>WooCommerce</a></h3>
+              </div>
+            </div>
+          </div>
+
         </div>
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">PHP <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Laravel <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">ReactJS <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-    </div><!-- End Skills Section -->
-
-    <!-- ======= Features Section ======= -->
-    <div id="features" class="features pt-5">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
-          <div class="col-lg-3 col-md-4">
-            <div class="icon-box">
-              <i class="ri-html5-line" style="color: #e54c21;"></i>
-              <h3><a>HTML</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-            <div class="icon-box">
-              <i class="ri-css3-fill" style="color: #5578ff;"></i>
-              <h3><a>CSS</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-            <div class="icon-box">
-              <i class="fa-brands fa-php" style="color: #767bb3;"></i>
-              <h3><a>PHP</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-            <div class="icon-box">
-              <i class="fa-brands fa-js-square" style="color: #f7df1e;"></i>
-              <h3><a>Javascript</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-database-2-line" style="color: #47aeff;"></i>
-              <h3><a>MySQL</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="fab fa-laravel" style="color: #f42d30;"></i>
-              <h3><a>Laravel</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="icon ri-git-branch-line" style="color: #ff5828;"></i>
-              <h3><a>Git</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="ri-github-fill" style="color: #000000;"></i>
-              <h3><a>Github</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="fa-brands fa-linux" style="color: #37423b;"></i>
-              <h3><a>Linux</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="bi bi-bootstrap" style="color: #6610f2;"></i>
-              <h3><a>Bootstrap</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="fa-brands fa-vuejs" style="color: #3fb984;"></i>
-              <h3><a>VueJS</a></h3>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 mt-4">
-            <div class="icon-box">
-              <i class="fa-brands fa-react" style="color: #00dcff;"></i>
-              <h3><a>ReactJS</a></h3>
-            </div>
-          </div>
-        </div>
-
-      </div>
       </div>
     </section><!-- End Skills Section -->
 
@@ -459,85 +429,11 @@
       <div class="container pb-5" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Courses</h2>
+          <h2>ABOUT ME</h2>
           <p>My Projects</p>
         </div>
 
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="course-item">
-              <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
-              <div class="course-content">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>E-commerce Website</h4>
-                </div>
-
-                <h3><a href="https://easysellph.com/" target="_blank">EasySellPH</a></h3>
-                <p>EasySellPH is a dropshipping company that makes people achieve their goals by offering them a minimal inventory opportunity.</p>
-                <div class="trainer d-flex justify-content-between align-items-center">
-                  <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
-                    <span><a href="https://easysellph.com/" target="_blank">Visit Website</a></span>
-                  </div>
-                  <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-laptop"></i>&nbsp;
-                    <i class="bx bx-mobile-alt"></i>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> <!-- End Course Item-->
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-            <div class="course-item">
-              <img src="assets/img/course-2.jpg" class="img-fluid" alt="...">
-              <div class="course-content">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>CRMS</h4>
-                </div>
-
-                <h3><a href="course-details.html">MCY Dental Clinic</a></h3>
-                <p>MCY Dental Clinic provides a wide range of dental services, as well as online appointments to make it easier for people to contact them.</p>
-                <div class="trainer d-flex justify-content-between align-items-center">
-                  <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
-                    <span><a href="http://mcydentalclinic.epizy.com/" target="_blank">Visit Website</a></span>
-                  </div>
-                  <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-laptop"></i>&nbsp;
-                    <i class="bx bx-mobile-alt"></i>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> <!-- End Course Item-->
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="course-item">
-              <img src="assets/img/course-3.jpg" class="img-fluid" alt="...">
-              <div class="course-content">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>Blog Website</h4>
-                </div>
-
-                <h3><a href="course-details.html">E-sports News and Info</a></h3>
-                <p>E-sports News is a personal project that includes a variety of information with which users may interact, such as news, blogs, and information about what esport is.</p>
-                <div class="trainer d-flex justify-content-between align-items-center">
-                  <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
-                    <span><a href="https://github.com/Jimwell1o1/Laravel-Esport-News-and-Info" target="_blank">Visit Website</a></span>
-                  </div>
-                  <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-laptop"></i>&nbsp;
-                    <i class="bx bx-mobile-alt"></i>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> <!-- End Course Item-->
-
-        </div>
+        <div class="row" data-aos="zoom-in" data-aos-delay="100" id="projects"></div>
 
       </div>
   </section><!-- End Popular Courses Section -->
@@ -552,56 +448,35 @@
           <small>Say Hi! and let's talk.</small>
         </div>
 
-        <div class="row mt-1">
-
-          <div class="col-lg-4">
-            <div class="info">
-              <div class="address">
-                <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>Metro Manila, PH</p>
+        <div class="row mt-4">
+          <div class="col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm border-0">
+              <div class="card-body text-center">
+                <i class="bi bi-person fs-1 text-danger"></i>
+                <h4 class="card-title mt-2">Contact</h4>
+                <p class="card-text text-muted">+63 938 373 2638</p>
               </div>
-
-              <div class="email">
-                <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
-                <p>rjohnjimwell@gmail.com</p>
-              </div>
-
             </div>
-
           </div>
 
-          <div class="col-lg-8 mt-5 mt-lg-0">
+          <div class="col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm border-0">
+              <div class="card-body text-center">
+                <i class="bi bi-envelope fs-1 text-danger"></i>
+                <h4 class="card-title mt-2">Email</h4>
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rjohnjimwell@gmail.com&su=Your%20Subject%20Here&body=Your%20message%20body%20here." target="_blank" class="envelope">rjohnjimwell@gmail.com</a>
+              </div>
+            </div>
+          </div>
 
-            <form action="includes/contact.php" method="POST" role="form" class="php-email-form">
-              <input type="hidden" name="csrf" value="<?php echo $_SESSION['csrf']; ?>">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
+          <div class="col-lg-4 mb-4">
+            <div class="card h-100 shadow-sm border-0">
+              <div class="card-body text-center">
+                <i class="bi bi-linkedin fs-1 text-primary"></i>
+                <h4 class="card-title mt-2">LinkedIn</h4>
+                <a href="https://www.linkedin.com/in/jimwell-rabino/" target="_blank">linkedin.com/in/jimwell-rabino/</a>
               </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-              <div class="text-center">
-              <div class="g-recaptcha d-flex justify-content-center pb-4" data-sitekey="6LdYJvAfAAAAAArlFOvRAHjaIdQ7z5u62epWbv2C"></div>
-                <button type="submit" id="click">Send Message</button>
-              </div>
-            </form>
-
+            </div>
           </div>
         </div>
 
@@ -640,6 +515,7 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="assets/js/experiences.js"></script>
+  <script src="assets/js/projects.js"></script>
 
 
 </body>

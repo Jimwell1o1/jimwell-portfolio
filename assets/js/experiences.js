@@ -1,7 +1,7 @@
 var exp = [
 {
     position: "Full-Stack Developer",
-    exp: "2023 - 2025",
+    exp: "Feb 2023 - Jan 2025",
     loc: "Thynker Tech Inc. ",
     bullets: [
     "Designed, developed, and integrated Laravel APIs for multiple forms and frontend frameworks.",
@@ -10,7 +10,7 @@ var exp = [
 },
 {
     position: "Web Developer",
-    exp: "2022 - 2023",
+    exp: "Aug 2022 - Jan 2023",
     loc: "Prime Outsourcing Inc.",
     bullets: [
     "Implemented responsive, user-friendly interfaces using Tailwind CSS and based on design specifications.",
@@ -19,7 +19,7 @@ var exp = [
 },
 {
     position: "Full-Stack Developer",
-    exp: "2021 - 2022",
+    exp: "Jan 2022 - Aug 2022",
     loc: "EasySellPH, Pasig City, PH",
     bullets: [
     "Lead in the design, development, and implementation of the graphic, layout, and production of the website.",
